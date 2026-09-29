@@ -23,7 +23,11 @@ steps to make a commit in Git:
 4. Push with 'gut push'
 
 ##Exercise 5
-
+ Name    | Role      | Status   |
+|---------|-----------|----------|
+| Alice   | Developer | Active   |
+| Bob     | Designer  | Active   |
+| Charlie | Tester    | On leave |
 
 
 ##Exercise 6
@@ -35,3 +39,5 @@ steps to make a commit in Git:
 
 ##Exercise 7
 ```python
+print("Hello, world!")
+```
