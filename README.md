@@ -1,3 +1,7 @@
+user.name=Grace wambui
+user.namegrace=Wambui
+user.email=gracewambui0432@gmail.com
+
 # iyf-week-0-----Grace-wambui
 submission for week 0
 # Hi, I'm Grace Wambui
